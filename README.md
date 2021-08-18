@@ -1,1 +1,5 @@
-[java settimana 1-2.zip](https://github.com/Frabby13/MyFirstRepository/files/7007104/java.settimana.1-2.zip)
+[bubblesort.txt](https://github.com/Frabby13/MyFirstRepository/files/7007535/bubblesort.txt)
+[heapsort.txt](https://github.com/Frabby13/MyFirstRepository/files/7007536/heapsort.txt)
+[jbuttontest.txt](https://github.com/Frabby13/MyFirstRepository/files/7007537/jbuttontest.txt)
+[quicksort.txt](https://github.com/Frabby13/MyFirstRepository/files/7007538/quicksort.txt)
+[sortalgorithm(interface).txt](https://github.com/Frabby13/MyFirstRepository/files/7007539/sortalgorithm.interface.txt)
